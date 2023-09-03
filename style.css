@@ -68,6 +68,7 @@ nav .menu{
   background-size: cover;
   background-position: center;
   position: static;
+  background-attachment: fixed;
 }
 .img::before{
   content: '';
