@@ -25,6 +25,17 @@ nav .menu{
   justify-content: space-between;
   padding: 0 20px;
 }
+
+.logo-img{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+}
+.bg-div{
+   background:#333;
+   overflow: hidden;
+}
+
 .menu .logo a{
   text-decoration: none;
   color: #fff;
